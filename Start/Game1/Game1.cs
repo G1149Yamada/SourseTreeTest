@@ -6,7 +6,7 @@ using Microsoft.Xna.Framework.Input;
 /// <summary>
 /// プロジェクト名がnamespaceとなります
 /// </summary>
-namespace Game1
+namespace Game1 //コミットテスト
 {
     /// <summary>
     /// ゲームの基盤となるメインのクラス
