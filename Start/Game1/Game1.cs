@@ -4,9 +4,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
 /// <summary>
-/// プロジェクト名がnamespaceとなります
+/// プロジェクト名がnamespaceとなります　AAAAAAAAAAAAAAAAブランチのテスト
 /// </summary>
-namespace Game1 //コミットテスト
+namespace Game1 //コミットテスト　
 {
     /// <summary>
     /// ゲームの基盤となるメインのクラス
