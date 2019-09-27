@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
 /// <summary>
-/// プロジェクト名がnamespaceとなります trialブランチに変更を加えた　これからこいつを競合させます
+/// プロジェクト名がnamespaceとなります trialブランチに変更を加えた　これからこいつを競合させます　trialと競合させます。競合の結果、左のうんこが消えることになります。うんこ
 /// </summary>
 namespace Game1 //コミットテスト
 {
