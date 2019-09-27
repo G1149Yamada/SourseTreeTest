@@ -4,13 +4,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
 /// <summary>
-<<<<<<< HEAD
-/// プロジェクト名がnamespaceとなります　AAAAAAAAAAAAAAAAブランチのテスト
-=======
 /// プロジェクト名がnamespaceとなります trialブランチに変更を加えた　これからこいつを競合させます
->>>>>>> trial
 /// </summary>
-namespace Game1 //コミットテスト　
+namespace Game1 //コミットテスト
 {
     /// <summary>
     /// ゲームの基盤となるメインのクラス
